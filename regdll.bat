@@ -1,0 +1,6 @@
+regsvr32 "D:\projects\HMS Projects\dALJIT WIN7\All main dependent Dlls\MailMergeAllnEye.dll"
+regsvr32 "D:\projects\HMS Projects\dALJIT WIN7\All main dependent Dlls\newScheduler.dll"
+regsvr32 "D:\projects\HMS Projects\dALJIT WIN7\All main dependent Dlls\prjlicence_old.dll"
+regsvr32 "D:\projects\HMS Projects\dALJIT WIN7\All main dependent Dlls\prjinterface.dll"
+regsvr32 "D:\projects\HMS Projects\dALJIT WIN7\All main dependent Dlls\Simpleproject.dll"
+regsvr32 "D:\projects\HMS Projects\dALJIT WIN7\All main dependent Dlls\facls.dll"
